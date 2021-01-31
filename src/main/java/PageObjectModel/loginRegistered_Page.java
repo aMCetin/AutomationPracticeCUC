@@ -49,6 +49,6 @@ public class loginRegistered_Page extends AbstractClass {
     private WebElement verification;
 
     public void assertPage(){
-       Assertion(verification,"MY ACCOUNT");
+        Assertion(verification,"MY ACCOUNT");
     }
 }
